@@ -8,4 +8,4 @@ A simple demonstration project of Continuous Integrations, Continuous Delivery a
 
 # Author
 
-[Thiago Barradas](https://www.linkedin.com/in/thiagobarradas "Linkedin")
+[Julio Cesar](https://www.linkedin.com/in/juliofasa "Linkedin")
