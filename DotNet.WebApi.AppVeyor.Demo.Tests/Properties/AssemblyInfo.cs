@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("DotNet.WebApi.AppVeyor.Demo.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]            
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("")] 
 [assembly: AssemblyProduct("DotNet.WebApi.AppVeyor.Demo.Tests")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
