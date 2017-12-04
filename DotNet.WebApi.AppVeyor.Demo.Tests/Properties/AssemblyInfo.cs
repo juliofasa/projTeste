@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 [assembly: AssemblyTitle("DotNet.WebApi.AppVeyor.Demo.Tests")]
 [assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyConfiguration("")]            
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("DotNet.WebApi.AppVeyor.Demo.Tests")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
