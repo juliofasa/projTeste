@@ -2,7 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using DotNet.WebApi.AppVeyor.Demo.Controllers;
 using System.Web.Http;
-using System.Net.Http;
+using System.Net.Http;  
 using System.Web.Http.Controllers;
 using System.Web.Http.Routing;
 using System.Net;
@@ -26,4 +26,4 @@ namespace DotNet.WebApi.AppVeyor.Demo.Tests
             Assert.AreEqual(result.StatusCode, HttpStatusCode.OK);
         }
     }
-}
+}      
